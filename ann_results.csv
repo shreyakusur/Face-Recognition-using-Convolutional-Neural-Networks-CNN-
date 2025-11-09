@@ -1,0 +1,2 @@
+model,image_size,val_accuracy,runtime_sec
+ANN,64,0.8676342964172363,746.7108428478241
